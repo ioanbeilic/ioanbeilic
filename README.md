@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ioanbeilic
-- 👀 I’m interested in javascript and python
+- 👀 I’m interested in javascript java kotlin and python
 - 🌱 I’m currently learning all y can 😁
 - 📫 How to reach me ioanbeilic@gmail.com
 
